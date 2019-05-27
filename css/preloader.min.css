@@ -1,6 +1,6 @@
 
 .preloader {
-    background: #9c27b0 none repeat scroll 0 0;
+    background: #00838f none repeat scroll 0 0;
     height: 100%;
     left: 0;
     position: fixed;
@@ -8,7 +8,7 @@
     top: 0;
     width: 100%;
     z-index: 999;
-	
+
 }
 .loader {
     animation: 2.3s ease 0s normal none infinite running cssload-loader;
